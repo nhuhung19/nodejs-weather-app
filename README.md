@@ -1,3 +1,3 @@
 # nodejs-weather-app
 
-<img src="./img/gif weather">
+<img src="./img/weather.gif">
